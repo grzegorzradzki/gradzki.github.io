@@ -1,0 +1,12 @@
+- title: "Paper Title Number 1"
+  authors: "G. Radzki, A. Kowalski"
+  year: 2023
+  venue: "Journal of Something"
+  paperurl: "http://example.com/paper1.pdf"
+  slidesurl: "http://example.com/slides1.pdf"
+
+- title: "Paper Title Number 2"
+  authors: "G. Radzki"
+  year: 2022
+  venue: "Conference on XYZ"
+  paperurl: "http://example.com/paper2.pdf"
