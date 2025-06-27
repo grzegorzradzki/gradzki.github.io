@@ -23,15 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Grzegorz Radzki "
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Grzegorz Radzki"
+  bio              : "Politechnika Koszalińska, Wydział Elektroniki i Informatyki | Navblue an Airbus Company"
   location         : "Słupsk (Poland)"
-  employer         : "Politechnika Koszalińska," 
-                      "Wydział Elektroniki i Informatyki"
-                      "Navblue an Airbus Company"
-  uri              : # URL
-  email            : "none@example.org" 
+  email            : # "none@example.org" 
 
   # Academic websites
   academia         : # URL
@@ -40,8 +35,8 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Grzegorz-Radzki?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
@@ -62,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "www.linkedin.com/in/grzegorz-radzki-ph-d-3567a8167"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
