@@ -9,8 +9,7 @@ author_profile: true
 
 {% for pub in site.data.publications %}
   <div class="pub-item">
-    <p>
-      {{ pub.citation }}
-    </p>
+    <p>{{ pub.html | markdownify }}</p>
   </div>
 {% endfor %}
+
