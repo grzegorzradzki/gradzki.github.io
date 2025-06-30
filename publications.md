@@ -7,9 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-{% for pub in site.data.publications %}
-  <div class="pub-item">
-    <p>{{ pub.html | markdownify }}</p>
-  </div>
-{% endfor %}
+<ol class="pub-list" reversed>
+  {% assign sorted_pubs = site.data.publications | sort: "date" | reverse %}
+  {% for pub in sorted_pubs %}
+    <li class="pub-item">
+      {{ pub.html | markdownify }}
+    </li>
+  {% endfor %}
+</ol>
 

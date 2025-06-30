@@ -1,10 +1,161 @@
-- html: >
+- date: 2019-08-01
+  html: >
+    Radzki G., Thibbotuwawa A., Bocewicz G.
+    UAVS FLIGHT ROUTES OPTIMIZATION IN CHANGING WEATHER CONDITIONS – CONSTRAINT PROGRAMMING APPROACH.
+    <i> Applied Computer Science </i>. 2019, 15(3), 5-20.
+    <a href="https://doi.org/10.23743/acs-2019-17" target="_blank">doi:10.23743/acs-2019-17</a>
+
+- date: 2020-01-01
+  html: >
+    Bocewicz G., Radzki G., Nielsen I.E., Witczak M., Banaszak Z.
+    UAVs fleet mission planning robust to changing weather conditions.
+    <i> IFAC-PapersOnLine </i>. 2020, 53(2), 10518-10524.
+    <a href="https://doi.org/10.1016/j.ifacol.2020.12.2798" target="_blank">doi:10.1016/j.ifacol.2020.12.2798</a>
+
+- date: 2020-01-01
+  html: >
+    Thibbotuwawa A., Bocewicz G., Radzki G., Nielsen I.E., Banaszak Z.
+    UAV Mission Planning Resistant to Weather Uncertainty.
+    <i> Sensors </i>. 2020, 20(2), 515.
+    <a href="https://doi.org/10.3390/s20020515" target="_blank">doi:10.3390/s20020515</a>
+
+- date: 2020-01-01
+  html: >
+    Radzki G., Nielsen P., Bocewicz G., Banaszak Z.
+    A Proactive Approach to Resistant UAV Mission Planning.
+    In: Szewczyk, R., Zieliński, C., Kaliczyńska, M. (eds) Automation 2020: Towards Industry of the Future. AUTOMATION 2020.
+    <i> Advances in Intelligent Systems and Computing </i>. 2020, 1140.
+    Springer, Cham.
+    <a href="https://doi.org/10.1007/978-3-030-40971-5_11" target="_blank">doi:10.1007/978-3-030-40971-5_11</a>
+
+- date: 2020-02-01
+  html: >
+    Radzki, G., Nielsen, P., Thibbotuwawa, A., Bocewicz, G., Banaszak, Z.
+    Declarative UAVs Fleet Mission Planning: A Dynamic VRP Approach.
+    In: Nguyen, N.T., Hoang, B.H., Huynh, C.P., Hwang, D., Trawiński, B., Vossen, G. (eds) Computational Collective Intelligence. ICCCI 2020.
+    <i> Lecture Notes in Computer Science </i>. 2020, 12496.
+    Springer, Cham.
+    <a href="https://doi.org/10.1007/978-3-030-63007-2_15" target="_blank">doi:10.1007/978-3-030-63007-2_15</a>
+
+- date: 2020-11-01
+  html: >
+    Radzki G., Nielsen P., Bocewicz G., Banaszak Z.
+    UAV Fleet Mission Planning Subject to Robustness Constraints.
+    In: Rodríguez González, S., et al. Distributed Computing and Artificial Intelligence, Special Sessions, 17th International Conference. DCAI 2020.
+    <i> Advances in Intelligent Systems and Computing </i>. 2021, 1242.
+    Springer, Cham.
+    <a href="https://doi.org/10.1007/978-3-030-53829-3_4" target="_blank">doi:10.1007/978-3-030-53829-3_4</a>
+
+- date: 2021-01-01
+  html: >
+    Radzki G., Nielsen I.E., Golinska-Dawson P., Bocewicz G., Banaszak Z.
+    Reactive UAV Fleet’s Mission Planning in Highly Dynamic and Unpredictable Environments.
+    <i> Sustainability </i>. 2021, 13(9), 5228.    
+    <a href="https://doi.org/10.3390/su13095228" target="_blank">doi:10.3390/su13095228</a>
+
+- date: 2021-05-01
+  html: >
+    Radzki G., Bocewicz G., Golińska-Dawson P., Jasiulewicz-Kaczmarek M., Witczak M., Banaszak Z.
+    Periodic planning of UAVs’ fleet mission with the uncertainty of travel parameters.
+    <i> IEEE International Conference on Fuzzy Systems </i>. 2021,    
+    <a href="https://doi.org/10.1109/FUZZ45933.2021.9494491" target="_blank">doi:10.1109/FUZZ45933.2021.9494491</a>
+
+- date: 2021-07-01
+  html: >
+    Radzki G., Bocewicz G., Dybała B., Banaszak Z.
+    Reactive Planning-Driven Approach to Online UAVs Mission Rerouting and Rescheduling.
+    <i> Applied Sciences </i>. 2021, 11, 8898    
+    <a href="https://doi.org/10.3390/app11198898" target="_blank">doi:10.3390/app11198898</a>
+
+- date: 2021-08-01
+  html: >
+    Radzki G., Golinska-Dawson P., Bocewicz G., Banaszak Z. 
+    Modelling Robust Delivery Scenarios for a Fleet of Unmanned Aerial Vehicles in Disaster Relief Missions.
+    <i> Journal of Intelligent & Robotic Systems </i>, 2021, 103(63)
+    <a href="https://doi.org/10.1016/j.neucom.2021.06.099" target="_blank">doi:10.1016/j.neucom.2021.06.099</a>
+
+- date: 2022-01-01
+  html: >
+    Bocewicz G., Radzki G., Nielsen P., Banaszak Z.
+    UAVs’ Dynamic Routing, Subject to Time Windows Variation.
+    <i> IFAC-PapersOnLine </i>. 2022, 52(2), 457-462.
+    <a href="https://doi.org/10.1016/j.ifacol.2022.04.236" target="_blank">doi:10.1016/j.ifacol.2022.04.236</a>
+    
+- date: 2022-01-01
+  html: >
+    Radzki G.,  Bocewicz G., Wikarek J., Nielsen P., Banaszak Z.
+    Multi Depot UAVs Routing Subject to Changing Weather and Time Windows Variation
+    In: Szewczyk, R., Zieliński, C., Kaliczyńska, M. (eds) Automation 2022: New Solutions and Technologies for Automation, Robotics and Measurement Techniques. AUTOMATION 2022.
+    <i> Advances in Intelligent Systems and Computing </i>. 2022, 1127.
+    Springer, Cham.
+    <a href="https://doi.org/10.1007/978-3-031-03502-9_7" target="_blank">doi:10.1007/978-3-031-03502-9_7</a>
+
+- date: 2022-01-01
+  html: >
+    Radzki, G., Relich, M., Bocewicz, G., Banaszak, Z. 
+    Declarative Approach to UAVs Mission Contingency Planning in Dynamic Environments.
+    In: González, S.R., et al. Distributed Computing and Artificial Intelligence, Volume 2: Special Sessions 18th International Conference. DCAI 2021. 
+    <i> Lecture Notes in Networks and Systems </i>. 2022, 332.
+    Springer, Cham.
+    <a href="https://doi.org/10.1007/978-3-030-86887-1_1" target="_blank">doi:10.1007/978-3-030-86887-1_1</a>
+
+- date: 2022-05-01
+  html: >
+    Radzki G., Bocewicz G., Wikarek J., Nielsen P., Banaszak Z.
+    Comparison of exact and approximate approaches to UAVs mission contingency planning in dynamic environments.
+    <i> Mathematical Biosciences and Engineering </i>. 2022, 19(7), 7091-7121.
+    <a href="https://doi.org/10.3934/mbe.2022335" target="_blank">doi:10.3934/mbe.2022335</a>
+
+- date: 2023-02-01
+  html: >
+    Radzki, G., Bocewicz, G., Banaszak, Z.
+    Proactive-Reactive Approach to Disruption-Driven UAV Routing Problem.
+    In: Szewczyk, R., Zieliński, C., Kaliczyńska, M., Bučinskas, V. (eds) Automation 2023: Key Challenges in Automation, Robotics and Measurement Techniques. AUTOMATION 2023.
+    <i> Lecture Notes in Networks and Systems </i>. 2023, 630.
+    Springer, Cham.
+    <a href="https://doi.org/10.1007/978-3-031-25844-2_5" target="_blank">doi:10.1007/978-3-031-25844-2_5</a>
+
+- date: 2023-07-01
+  html: >
+    Banaszak Z., Radzki, G., Nielsen I., Frederiksen R., Bocewicz G. 
+    Proactive Mission Planning of Unmanned Aerial Vehicle Fleets Used in Offshore Wind Farm Maintenance.
+    <i>Applied Science</i>. 2023, 13, 8449.
+    <a href="https://doi.org/10.3390/app13148449" target="_blank">doi:10.3390/app13148449</a>
+
+- date: 2023-08-01
+  html: >
+    Radzki G., Bocewicz G., Nielsen P., Jasiulewicz-Kaczmarek M., Banaszak Z.
+    UAV Fleet Routing Under Weather and Customer Orders Uncertainty Parameters
+    <i> 2023 IEEE International Conference on Fuzzy Systems (FUZZ) </i>. 2023,    
+    <a href="https://doi.org/10.1109/FUZZ52849.2023.10309708" target="_blank">doi:10.1109/FUZZ52849.2023.10309708</a>
+
+- date: 2024-07-01
+  html: >
+    Frederiksen R.D., Bocewicz G., Radzki G., Banaszak Z., Nielsen P.
+    Cost-Effectiveness of Predictive Maintenance for Offshore Wind Farms: A Case Study.
+    <i>Energies</i>. 2024, 17, 3147.
+    <a href="https://doi.org/10.3390/en17133147" target="_blank">doi:10.3390/en17133147</a>
+
+- date: 2024-08-01
+  html: >
+    Frederiksen R.D., Bocewicz G., Nielsen P., Radzki G., Wójcik R., Banaszak Z.
+    Towards Efficiency: Declarative Modelling in Wind Farm Preventive Maintenance Strategies.
+    In B. Marcinkowski, A. Przybylek, A. Jarzębowicz, N. Iivari, E. Insfran, M. Lang, H. Linger, & C. Schneider (Eds.),
+    <i> Harnessing Opportunities: Reshaping ISD in the post-COVID-19 and Generative AI Era (ISD2024 Proceedings) </i>. 2024,    
+    <a href="https://doi.org/10.62036/ISD.2024.115" target="_blank">doi:10.62036/ISD.2024.115</a>
+
+- date: 2024-08-01
+  html: >
     Frederiksen R.D., Bocewicz G., Nielsen P., Radzki G., Banaszak Z.
-    <i>A Reference Modelling Approach for Cost Optimal Maintenance for Offshore Wind Farms</i>.
-    <b>Sustainability</b>. 2024; 16(19), 8352.
+    A Reference Modelling Approach for Cost Optimal Maintenance for Offshore Wind Farms.
+    <i>Sustainability</i>. 2024, 16(19), 8352.
     <a href="https://doi.org/10.3390/su16198352" target="_blank">doi:10.3390/su16198352</a>
 
-- html: >
-    Radzki G., Kowalski A.
-    <i>Optimization of Rail Timetables</i>. Journal of Transport, 2023.
+- date: 2025-03-01
+  html: >
+    Szwarc E., Bocewicz G., Radzki G., Banaszak Z.
+    Balancing Supply and Demand in PaaS Markets: A Framework for Profitability, Cost Optimization, and Sustainability
+    <i>Sustainability</i>. 2025, 17(7), 2823.
+    <a href="https://doi.org/10.3390/su17072823" target="_blank">doi:10.3390/su17072823</a>
+
 
