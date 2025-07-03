@@ -265,10 +265,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _work
   - scope:
       path: ""
-      type: portfolio
+      type: work
     values:
       layout: single
       author_profile: true
