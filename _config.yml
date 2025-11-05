@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "pl-PL"
 site_theme               : "default"
-title                    : "dr inż. Grzegorz Radzki"
+title                    : "Grzegorz Radzki"
 title_separator          : "-"
 name                     : &name "Grzegorz Radzki"
 description              : &description "personal description"

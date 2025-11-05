@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "work"
+title: "Zatrudnienie"
 permalink: /work/
 author_profile: true
 redirect_from:
